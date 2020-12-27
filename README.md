@@ -2,8 +2,8 @@
 
 # Boxfall
 A small minigame where boxes fall from the sky.\
-You have to not get crushed, and climb on top of them as they stack up to avoid rising lava!
+You have to not get crushed, and climb on top of them as they stack up to avoid rising lava
 
-Made with Unity
+Made with Unity!
 
 Play it here: https://edz123.itch.io/boxfall
